@@ -29,7 +29,7 @@ Skilled full-stack Java developer with expertise in front-end and back-end Techn
 
 ## Projects
 
-### [Online Book Shop - Bookly.io](https://github.com/83546-MyGitData/FinalProject-J014)
+### [Online Book Shop - Bookly.io](https://github.com/MrunalKesarkar/Online-Book-Shop_Bookly.io)
 
 Developed a comprehensive E-commerce website that allows users to browse, search, and purchase books from a diverse catalog.
 
