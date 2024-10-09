@@ -6,7 +6,7 @@ Java Full Stack Developer
 
 ## About Me
 
-skilled full-stack Java developer with expertise in front-end and back-end Technologies like Java, Spring Boot, HTML, CSS, SQL, and JavaScript, Developed through a comprehensive 6-month full-time course, and am excited to apply my knowledge and grow with a forward-thinking team as a fresher.
+Skilled full-stack Java developer with expertise in front-end and back-end Technologies like Java, Spring Boot, HTML, CSS, SQL, and JavaScript, Developed through a comprehensive 6-month full-time course, and am excited to apply my knowledge and grow with a forward-thinking team as a fresher.
 
 ## Skills
 
