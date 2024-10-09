@@ -29,7 +29,7 @@ Skilled full-stack Java developer with expertise in front-end and back-end Techn
 
 ## Projects
 
-### [Online Book Shop - Bookly.io]()
+### [Online Book Shop - Bookly.io](https://github.com/83546-MyGitData/FinalProject-J014)
 
 Developed a comprehensive E-commerce website that allows users to browse, search, and purchase books from a diverse catalog.
 
