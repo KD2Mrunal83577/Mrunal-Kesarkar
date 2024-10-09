@@ -2,7 +2,7 @@
 Java Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KD2Mrunal83577?tab=repositories&q=&type=public&sort=)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar/MrunalKesarkar)
 
 ---
 
@@ -40,5 +40,5 @@ Developed a comprehensive E-commerce website that allows users to browse, search
 Feel free to reach out to me for collaboration or any inquiries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KD2Mrunal83577?tab=repositories&q=&type=public&sort=)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar/MrunalKesarkar)
 
