@@ -1,4 +1,4 @@
-# Mrunal-Kesarkar
+# MrunalKesarkar
 Java Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)
