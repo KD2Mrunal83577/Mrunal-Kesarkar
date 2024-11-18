@@ -35,6 +35,8 @@ Developed a comprehensive E-commerce website that allows users to browse, search
 
 ### [Monthly Mess Services - EasyWay](https://github.com/MrunalKesarkar/Monthly-Meal-Services_EasyWay)
 
+Developed an Android application that connects users with local mess services, enabling meal browsing, order placement, and subscription management with ease.
+
 ---
 
 ## Contact
