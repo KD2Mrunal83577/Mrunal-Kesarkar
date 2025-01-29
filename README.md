@@ -1,48 +1,61 @@
-# MrunalKesarkar
-Java Full Stack Developer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar/MrunalKesarkar)
+Got it! Here's your updated GitHub profile README with the correct tech stack for **EasyWay**:  
 
 ---
 
-## About Me
+# 🌟 Mrunal Kesarkar  
+**Java Full Stack Developer**  
 
-Skilled full-stack Java developer with expertise in front-end and back-end Technologies like Java, Spring Boot, HTML, CSS, SQL, and JavaScript, Developed through a comprehensive 6-month full-time course, and am excited to apply my knowledge and grow with a forward-thinking team as a fresher.
-
----
-
-## Skills
-
-<!--![Java](https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=white)-->
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar)  
 
 ---
 
-## Projects
+## 🚀 About Me  
 
-### [Online Book Shop - Bookly.io](https://github.com/MrunalKesarkar/Online-Book-Shop_Bookly.io)
+Passionate **Java Full-Stack Developer** with hands-on experience in building scalable web applications. Proficient in **Java, Spring Boot, React, SQL, and REST APIs**, I enjoy solving complex problems and developing efficient, user-friendly applications.  
 
-Developed a comprehensive E-commerce website that allows users to browse, search, and purchase books from a diverse catalog.
-
-### [Monthly Mess Services - EasyWay](https://github.com/MrunalKesarkar/Monthly-Meal-Services_EasyWay)
-
-Developed an Android application that connects users with local mess services, enabling meal browsing, order placement, and subscription management with ease.
+💡 I completed an intensive **PG-DAC program** where I strengthened my expertise in **Java web development, software engineering, and database management**.  
+🎯 Currently seeking opportunities to contribute my skills and grow with a dynamic team.  
 
 ---
 
-## Contact
+## 🛠️ Skills  
 
-Feel free to reach out to me for collaboration or any inquiries.
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar/MrunalKesarkar)
+---
 
+## 🔥 Projects  
+
+### 📚 [Online Book Shop - Bookly.io](https://github.com/MrunalKesarkar/Online-Book-Shop_Bookly.io)  
+An e-commerce website for book lovers!  
+- 🛍️ Browse and purchase books online.  
+- 🛒 Integrated shopping cart and secure checkout.  
+- ⚙️ Built with **React, Spring Boot, MySQL**.  
+
+### 🍽️ [Online Mess Services - EasyWay](https://github.com/MrunalKesarkar/Monthly-Meal-Services_EasyWay)  
+A web-based platform for managing meal subscriptions.  
+- 🍲 Connects users with **local mess services**.  
+- 📅 Order meals & manage subscriptions seamlessly.  
+- ⚙️ Built with **Java, React, MySQL**.  
+
+---
+
+## 📩 Connect With Me  
+
+🚀 Looking for collaboration or job opportunities? Feel free to connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrunal-kesarkar/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/MrunalKesarkar)  
+
+---
+
+This should now accurately reflect **EasyWay**'s tech stack. Let me know if you'd like any more tweaks! 🚀
